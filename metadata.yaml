@@ -1,0 +1,43 @@
+_repo: A-travers-l-Exposition-Promenades-de-deux-enfants-au-Champ-de-Mars-et-a-l-esplanade-des-Inval__53536
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Marie, Adrien-Emmanuel
+    aliases:
+    - Marie, E. (Emmanuel)
+    - Marie, A. (Adrien)
+    birthdate: 1848
+    deathdate: 1891
+    gutenberg_agent_id: '41496'
+    url: http://www.gutenberg.org/2009/agents/41496
+creator:
+  author:
+    agent_name: Lamarque, É. (Élodie)
+    aliases:
+    - Lamarque, Élodie
+    - Lamarque, E. (Elodie)
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '47423'
+    url: http://www.gutenberg.org/2009/agents/47423
+description: ''
+gutenberg_bookshelf:
+- FR Villes
+- FR Illustrateurs
+- FR Jeunesse
+gutenberg_issued: '2016-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53536'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'T'
+- !lcsh 'Exposition universelle de 1889 (Paris, France)'
+- GITenberg
+title: "A travers l'Exposition\r\nPromenades de deux enfants au Champ-de-Mars et à\
+  \ l'esplanade des Invalides"
+url: http://www.gutenberg.org/ebooks/53536
